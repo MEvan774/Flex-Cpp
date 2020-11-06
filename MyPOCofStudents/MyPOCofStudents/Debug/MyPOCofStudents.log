@@ -1,0 +1,5 @@
+﻿  MyPOCofStudents.cpp
+C:\Users\Milan\source\repos\MyPOCofStudents\MyPOCofStudents\MyPOCofStudents.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  Generating Code...
+  MyPOCofStudents.vcxproj -> C:\Users\Milan\source\repos\MyPOCofStudents\Debug\MyPOCofStudents.exe
